@@ -1,0 +1,7 @@
+this is an awsome workshop!
+
+Git is working fine for me until now!
+
+Git did not show me the diff command
+
+Git is always asking me about the username!
